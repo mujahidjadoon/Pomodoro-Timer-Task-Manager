@@ -1,0 +1,4 @@
+streamlit
+# You may need other libraries depending on your specific Python environment, 
+# but these are the minimum for your core app:
+python-dotenv
